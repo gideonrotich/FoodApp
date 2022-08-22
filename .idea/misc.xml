@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/card.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/layout/fragment_meal_details.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/layout/fragment_meal_search.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/meal_item.xml" value="0.2601851851851852" />
         <entry key="app/src/main/res/layout/player_item.xml" value="0.35260416666666666" />
       </map>
     </option>

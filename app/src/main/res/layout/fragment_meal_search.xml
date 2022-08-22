@@ -24,7 +24,7 @@
                 android:layout_width="350dp"
                 android:layout_height="wrap_content"
                 android:iconifiedByDefault="false"
-                android:queryHint="Search Player here..." />
+                android:queryHint="Search Meals here..." />
 
 
             <androidx.recyclerview.widget.RecyclerView
